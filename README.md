@@ -18,3 +18,7 @@ If you want to learn more about creating good readme files then refer the follow
 - [Platform QA](https://github.com/aspnet/Home)
 - [Visual Studio Code](https://github.com/Microsoft/vscode)
 - [Chakra Core](https://github.com/Microsoft/ChakraCore)
+
+
+# Screenshots
+![image](https://user-images.githubusercontent.com/77793025/112317477-1ba8cc00-8cd2-11eb-8e02-eab8b6d032a5.png)
